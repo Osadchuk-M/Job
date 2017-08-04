@@ -3,9 +3,9 @@
 * tech
 * competence
 
-## competence
+## Competence
 
-### some general questions:
+### Some general questions:
 
 * Give us an example of one of the toughest problems you had to face, and how did you deal with it?
 * Why do you want to work here?
@@ -39,3 +39,12 @@ Result
   We talked about his progress and managed to identify the key reasons for the delay.
   We then worked out the solution together. Even though that situation was a bit unpleasant,
   I think I learnt from it as it reminded me of the importance of staying calm and positive.
+
+## If there was no positive outcome - 
+## talk about what you have learnt.
+
+> That situation taught me that...
+
+> From that time on, I always try yo make sure that
+
+### Tell me about your self. - it's not life story. Only answer the question in relation to this job.
